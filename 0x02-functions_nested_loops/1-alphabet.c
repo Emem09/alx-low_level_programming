@@ -6,6 +6,7 @@
  */
 
 void print_alphabet(void)
+
 {
 	char ch;
 
@@ -18,6 +19,6 @@ void print_alphabet(void)
 
 	}
 
-	_putcha('\n');
+	_putchar('\n');
 
 }
